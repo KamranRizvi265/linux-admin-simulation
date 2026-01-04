@@ -1,0 +1,13 @@
+Tasks:
+Filter the ~/project/logs/app.log file to find all lines containing the word ERROR.
+Save the filtered lines to a new file named ~/project/error_report.txt.
+Examine the system's kernel messages for any lines related to fail or error.
+Save these findings into a file named ~/project/boot_issues.txt.
+Search the web server configuration file at ~/project/config/nginx.conf.
+Find the line containing the worker_processes directive.
+Append this line to the ~/project/error_report.txt file you created in the first step.
+Compare the staging configuration file ~/project/config/staging/app.conf with the production configuration file ~/project/config/production/app.conf.
+Save the differences to a new file named ~/project/config_diff.txt.
+You have two directories: /home/labex/project/server1_files (representing the staging server) and /home/labex/project/server2_files (representing the production server).
+Compare these two directories to find out which files are unique to server1_files.
+Save the complete comparison output to a file named /home/labex/project/missing_files.txt.

@@ -1,0 +1,9 @@
+Tasks:
+Find out the username of the current user.
+Display the kernel name of the operating system.
+Use the uname -a command to display all system information.
+Use the uptime command to show system uptime and load average.
+Launch the interactive system monitoring tool to view active processes and resource usage.
+Exit the tool after observing the output for a few moments.
+Create a file named system_report.txt in your current directory (~/project).
+The file must contain the output of the whoami, uname -a (all system information), and uptime commands.
