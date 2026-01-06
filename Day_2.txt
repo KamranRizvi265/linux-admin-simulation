@@ -1,0 +1,12 @@
+Tasks
+Navigate into the ~/project/phoenix_project directory.
+Create three new subdirectories: src for source code, config for configuration files, and docs for documentation.
+Move the main_app.py file into the src directory.
+Move the config.json file into the config directory.
+Move the README.md file into the docs directory.
+Create a backup copy of the config.json file.
+Move the entire shared_docs directory and all of its contents into the ~/project/phoenix_project/docs/ directory.
+Navigate to the ~/project/logs directory.
+Create a compressed tar archive named old_logs.tar.gz that contains all log files from the year 2023.
+After the archive is successfully created, delete the original 2023 log files that you just archived.
+
